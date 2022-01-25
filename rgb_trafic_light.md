@@ -32,4 +32,4 @@ void signal(int r, int g, int b){
 
 > Circuit
 
-![](rbg_trafic_light.png)
+![](rgb_trafic_light.png)
