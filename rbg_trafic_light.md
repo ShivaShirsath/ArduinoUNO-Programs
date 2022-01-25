@@ -1,4 +1,4 @@
-# Trafic Light with 3 (RED, YELLOW, GREEN) LED
+# Trafic Light with 1 (RGB) LED
 
 > Program 
 
