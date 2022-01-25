@@ -1,10 +1,12 @@
 # Trafic Light with 3 (RED, YELLOW, GREEN) LED
+
 > Program 
+
 ```ino
 int
-  R = 13,
+  R = 11,
   Y = 12,
-  G = 11
+  G = 13
 ;
 
 void setup(){
@@ -26,6 +28,7 @@ void signal(int on, int off1, int off2){
   delay(on==Y?2000:5000);
 }
 ```
+
 > Circuit
 
 ![](ryg_trafic_light.png)
