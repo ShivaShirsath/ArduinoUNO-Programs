@@ -1,7 +1,6 @@
 # Trafic Light with 3 (RED, YELLOW, GREEN) LED
 > Program 
 ```ino
-// Coded by Shiva
 int
   R = 13,
   Y = 12,
@@ -28,4 +27,5 @@ void signal(int on, int off1, int off2){
 }
 ```
 > Circuit
+
 ![](ryg_trafic_light.png)
