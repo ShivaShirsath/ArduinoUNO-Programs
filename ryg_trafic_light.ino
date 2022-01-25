@@ -1,8 +1,8 @@
 // Coded by Shiva
 int
-  R = 13,
+  R = 11,
   Y = 12,
-  G = 11
+  G = 13
 ;
 
 void setup(){
